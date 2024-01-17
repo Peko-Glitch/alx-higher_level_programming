@@ -5,4 +5,4 @@ for i in range(0, 100):
         print(99)
         break
     if i <= 98:
-        print("{:02d}".format(i), end=",")
+        print("{:02d}".format(i), end=", ")
